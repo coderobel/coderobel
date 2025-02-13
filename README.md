@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on programming projects(I'm just a beginner)
 - 📫 How to reach me: my email is robel.ugr-4552-16@aau.edu.et(gmail)
 - 😄 Pronouns: he
-- ⚡ Fun fact: I look like I'm 30 but I'm 18.
 
 <!---
 coderobel/coderobel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
